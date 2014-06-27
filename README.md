@@ -1,4 +1,4 @@
-animately.js
+Animately.js
 ============
 
-A JavaScript animation library for CSS3 transforms.
+A JavaScript animation library for complex CSS3 transforms.
