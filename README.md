@@ -1,4 +1,4 @@
-buff-muffins.js
+animately.js
 ============
 
-A lightweight vanilla (doesn't require jquery) JavaScript animation library for complex CSS3 transforms that can be definded using JSON.
+A lightweight (doesn't require jquery) JavaScript animation library for chaining CSS3 animations that can be looped.
